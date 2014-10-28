@@ -1,0 +1,24 @@
+{
+    "name": "http-status-cats",
+    "description": "X-Status-Cat for HTTP responses",
+    "version": "1.0.0",
+    "author": "Nico Kaiser <nico@kaiser.me>",
+    "contributors": [
+        {
+            "name": "Tomomi Imura",
+            "url": "http://girliemac.com"
+        },
+        {
+            "name": "Alex Kocharin",
+            "email": "alex@kocharin.ru"
+        }
+    ],
+    "keywords": [
+        "express",
+        "http",
+        "status",
+        "cat"
+    ],
+    "main": "index.js",
+    "license": "MIT"
+}
