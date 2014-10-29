@@ -13,6 +13,10 @@
             "email": "alex@kocharin.ru"
         }
     ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/nicokaiser/http-status-cats.git"
+    },
     "keywords": [
         "express",
         "http",
